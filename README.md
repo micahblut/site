@@ -1,2 +1,2 @@
-# site
+# ¯\_(ツ)_/¯
 github repository for blut.dev
